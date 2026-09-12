@@ -23,7 +23,7 @@
 > *Fresher Full-Stack Developer on a mission to build scalable, well-architected web applications.*
 
 - 🏢 Currently interning at **LogTecHub** — working on a **microservices-based Transport Management System**
-- 🎓 Studying **Information Technology** at **Saigon University** (Expected Sep. 2026)
+- 🎓 Studying **Information Technology** at **Saigon University** (Expected Feb. 2027)
 - 🔭 Passionate about **Clean Architecture**, **Microservices**, and **RESTful API design**
 - 🌱 Growing fast in **ASP.NET Core**, **Angular**, and **cloud-native patterns**
 - 📍 Based in **Ho Chi Minh City, Vietnam**
@@ -88,11 +88,12 @@
 
 | 🏫 Institution | 📚 Degree | 📅 Period | 🏆 GPA |
 |---|---|---|---|
-| Saigon University | B.Eng. Information Technology | 2022 – 2026 | 3.05/4.0 |
+| Saigon University | B.Eng. Information Technology | 2022 – 2026 | 3.15/4.0 |
 
 | 📜 Certificate | 🏅 Score | 📅 Date |
 |---|---|---|
 | TOEIC Listening & Reading | 705/990 | Aug 2024 |
+| TOEIC Speaking & Writing | 260/400 | Aug 2026 |
 
 ---
 
